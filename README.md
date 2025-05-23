@@ -19,7 +19,8 @@ A simple Python-based GUI application for predicting weather conditions such as 
 
 ## 📸 GUI Preview
 
-> *Insert screenshot here (optional)*
+> *![image](https://github.com/user-attachments/assets/85940334-2e78-4b2d-a273-f5448f5af727)
+*
 
 ---
 
